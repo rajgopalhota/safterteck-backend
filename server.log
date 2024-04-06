@@ -1,0 +1,7 @@
+[2024-04-06T06:34:03.965Z] GET /getFiles
+[2024-04-06T06:35:29.595Z] POST /createFile
+[2024-04-06T06:35:34.617Z] GET /getFiles
+[2024-04-06T06:35:37.587Z] GET /getFile?filename=example.txt
+[2024-04-06T06:35:44.440Z] DELETE /getFile?filename=example1.txt
+[2024-04-06T06:36:09.487Z] DELETE /deleteFile?filename=example1.txt
+[2024-04-06T06:36:32.687Z] PUT /modifyFile

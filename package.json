@@ -1,0 +1,17 @@
+{
+  "name": "web-server",
+  "version": "1.0.0",
+  "description": "Safertek backend tasks",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RAJGOPAL HOTA",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security"
+  }
+}
